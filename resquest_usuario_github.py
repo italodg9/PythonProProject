@@ -3,7 +3,6 @@ import requests
 
 def buscar_usuario(usuario):
     """
-
     :param usuario: busca um usuario no git hub
     :return: str com o id e com o avatar
     """
